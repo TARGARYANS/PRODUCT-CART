@@ -1,0 +1,39 @@
+.secbox{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: green;
+    width: 700px;
+    height: 350px;
+}
+
+.sectit{
+    color: yellow;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.inpu{
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.buto{
+    width: 80px;
+    height: 50px;
+    margin-top: 40px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+.thirdbox{
+    margin-top: 100px;
+    margin-left: 500px;
+
+    width: 700px;
+    height: 250px;
+    background-color: gray;
+}

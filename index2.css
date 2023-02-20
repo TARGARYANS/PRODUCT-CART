@@ -1,0 +1,44 @@
+.box{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    height: 700px;
+    background-color: rgb(73, 20, 73);
+}
+
+.title{
+    color: yellow;
+    
+}
+
+.inp{
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    margin-top: 28px;
+}
+
+.but1{
+    width: 80px;
+    height: 50px;
+    margin-top: 30px;
+    background-color: red;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: medium;
+    
+}
+
+.but2{
+    width: 150px;
+    height: 60px;
+    margin-top: 70px;
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    
+    
+}
